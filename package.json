@@ -1,0 +1,18 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "learning how to develop an API",
+  "main": "script.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "firstApi"
+  },
+  "author": "Jarom Edwards",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
