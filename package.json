@@ -5,8 +5,8 @@
   "main": "script.js",
   "scripts": {
     "start": "node script.js",
-    "test": "npm start"
-  },
+    "build": "npm install && node server.js"
+  },  
   "repository": {
     "type": "git",
     "url": "firstApi"
