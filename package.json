@@ -4,8 +4,8 @@
   "description": "learning how to develop an API",
   "main": "script.js",
   "scripts": {
-    "start": "node script.js",
-    "build": "npm install && node server.js"
+    "start": "server.js",
+    "build": "server.js"
   },  
   "repository": {
     "type": "git",
