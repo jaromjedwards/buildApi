@@ -4,6 +4,7 @@
   "description": "learning how to develop an API",
   "main": "script.js",
   "scripts": {
+    "start": "node script.js",
     "test": "npm start"
   },
   "repository": {
